@@ -1,4 +1,4 @@
-![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/e1c65ced-e195-471e-97cd-93c35d9f698d)
+![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/4c02432d-1ee6-4e5d-a396-970e90341c0e)
 
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
