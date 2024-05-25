@@ -1,3 +1,5 @@
+![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/e1c65ced-e195-471e-97cd-93c35d9f698d)
+
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
@@ -21,40 +23,40 @@ Manovich define la hibridación como la combinación de diferentes tipos de medi
 
 la hibridación de plataformas, según Manovich, representa una estrategia innovadora que puede generar beneficios significativos para las plataformas, los artistas y los usuarios, impulsando la industria del entretenimiento digital hacia un futuro más dinámico, interactivo y diverso. Algunos de estos pueden ser:
 
-## 1. Mayor Alcance: 
+### 1. Mayor Alcance: 
 La combinación de diferentes tipos de medios y plataformas permite ampliar la audiencia potencial, llegando a un público más diverso.
-![alt text](image.png)
 
-## 2. Experiencia Más Completa: 
+### 2. Experiencia Más Completa: 
 La hibridación ofrece a los usuarios una experiencia más rica y completa, integrando diferentes formatos y géneros en una única plataforma.
-![alt text](image-1.png)
 
-## 3. Nuevos Modelos de Negocio: 
+### 3. Nuevos Modelos de Negocio: 
 La hibridación abre la puerta a nuevas oportunidades de monetización, como suscripciones premium, publicidad personalizada o paquetes combinados.
 
-## 4. Interactividad y Comunidad:
+### 4. Interactividad y Comunidad:
  La hibridación fomenta la interacción entre usuarios y artistas, creando espacios para el diálogo, la colaboración y el sentido de pertenencia.
 
-## 5. Transmedia:
+### 5. Transmedia:
  La hibridación expande el alcance del contenido a través de diferentes canales y plataformas, maximizando su impacto y visibilidad.
 
-## 6. Democratización del Acceso:
+### 6. Democratización del Acceso:
  La hibridación puede facilitar el acceso a contenido gratuito y accesible a una audiencia más amplia, democratizando el consumo cultural.
 
-## 7. Evolución Constante:
+### 7. Evolución Constante:
  La hibridación permite una evolución constante de las plataformas, adaptándose a las nuevas tecnologías, tendencias y necesidades de los usuarios.
 
-## Re-descubriendo la hibridacion: Pluto TV
+### Re-descubriendo la hibridacion: Pluto TV
 
 Pluto TV combina televisión tradicional, streaming de video y contenido a la carta en una única plataforma, ofreciendo una variedad de opciones de entretenimiento en el que los usuarios pueden interactuar con el contenido. Pluto TV permite navegar entre diferentes canales y programas de forma fluida, sin necesidad de cambiar de plataforma albergando un extenso catálogo de contenido audiovisual con la utilización de, algoritmos para sugerir contenido relevante. Uno de los mejores datos de esta plataforma es que está en constante evolución con la incorporación de nuevos canales, programas y funcionalidades para mejorar la experiencia del usuario.
 
 ![image](https://github.com/mgea/PEC3_Manovich_Reloaded/assets/170682592/43dc3d8f-ed49-4ace-81d9-99bdf29358b6)
 
-## Aspectos Híbridos en Pluto TV: 4 Claves para Manovich
+### Aspectos Híbridos en Pluto TV: 4 Claves para Manovich
 
 1. Medios Mixtos: Pluto TV combina televisión tradicional, streaming de video y contenido a la carta, ofreciendo una amplia gama de opciones de entretenimiento en una única plataforma. Esto satisface las preferencias de diversos usuarios y expande el alcance del contenido.
 
 2. Hipertextualidad: La plataforma permite una navegación fluida entre canales, programas y géneros sin necesidad de cambiar de plataforma. Esta experiencia no lineal emula la forma en que los usuarios consumen contenido en la era digital.
+
+![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/67e13736-2826-4de8-973a-ec1cf7a93cbf)
 
 3. Base de Datos Extensa: Pluto TV alberga un vasto catálogo de contenido audiovisual, accesible a través de búsquedas y recomendaciones personalizadas. Esta amplia base de datos permite a los usuarios descubrir nuevos artistas, géneros y contenidos que se ajusten a sus gustos.
 
@@ -66,11 +68,13 @@ Tidal, una plataforma de streaming de música de alta calidad, ha incorporado el
 
 ![image](https://github.com/mgea/PEC3_Manovich_Reloaded/assets/170682592/1ca039af-d46b-4999-9896-cac9d68550a3)
 
-## Aspectos Híbridos en Tidal: 4 Claves para Manovich
+### Aspectos Híbridos en Tidal: 4 Claves para Manovich
 
 1. Medios Mixtos: Tidal combina música, videos, podcasts y entrevistas en una única plataforma, creando una experiencia multimedia enriquecida. Los usuarios no solo pueden escuchar música, sino también ver videos musicales, entrevistas con artistas y podcasts relacionados con la industria musical.
 
 2. Interactividad: Tidal fomenta la interacción entre usuarios y artistas a través de comentarios, listas de reproducción personalizadas y la posibilidad de compartir contenido en redes sociales. Esta interactividad rompe con la tradicional relación pasiva entre el usuario y el contenido, creando una experiencia más participativa.
+
+![image](https://github.com/mgea/PEC3_Manovich_Reloaded/assets/170682592/1ca039af-d46b-4999-9896-cac9d68550a3)
 
 3. Base de Datos Extensa: La plataforma alberga una vasta biblioteca de música y contenido audiovisual, accesible a través de búsquedas y recomendaciones personalizadas. Esta amplia base de datos permite a los usuarios descubrir nuevos artistas, géneros y contenidos que se ajusten a sus gustos.
 
@@ -81,8 +85,10 @@ Tidal, una plataforma de streaming de música de alta calidad, ha incorporado el
 
 * (https://theobjective.com/further/cultura/2020-10-22/todo-lo-que-necesitas-saber-pluto-tv-plataforma-streaming-gratuita/)
 * https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20240307/adios-spotify-alternativa-musica-alta-definicion-sorprende-bajada-precios/838166505_0.html
+* https://incom.uab.cat/portalcom/el-mundo-digital-segun-lev-manovich/
 
 
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/188c103b-56d5-4124-941e-85fadeb645c5)
