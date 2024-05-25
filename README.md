@@ -74,7 +74,8 @@ Tidal, una plataforma de streaming de música de alta calidad, ha incorporado el
 
 2. Interactividad: Tidal fomenta la interacción entre usuarios y artistas a través de comentarios, listas de reproducción personalizadas y la posibilidad de compartir contenido en redes sociales. Esta interactividad rompe con la tradicional relación pasiva entre el usuario y el contenido, creando una experiencia más participativa.
 
-![image](https://github.com/mgea/PEC3_Manovich_Reloaded/assets/170682592/1ca039af-d46b-4999-9896-cac9d68550a3)
+![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/516b3b06-e400-49d5-bc2f-00f99fe72a1f)
+
 
 3. Base de Datos Extensa: La plataforma alberga una vasta biblioteca de música y contenido audiovisual, accesible a través de búsquedas y recomendaciones personalizadas. Esta amplia base de datos permite a los usuarios descubrir nuevos artistas, géneros y contenidos que se ajusten a sus gustos.
 
