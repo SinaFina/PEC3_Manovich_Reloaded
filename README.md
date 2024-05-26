@@ -8,7 +8,7 @@
 Autor: Alfonsina Ayetebe Ntutumu Mba
 
 
-Fecha: 26/05/2024
+Fecha: 27/05/2024
 
 
 ![image](https://github.com/mgea/PEC3_Manovich_Reloaded/assets/170682592/0e555d90-eaab-42c6-8c14-cbc11f6712ef)
