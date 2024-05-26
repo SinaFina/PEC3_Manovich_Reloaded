@@ -10,6 +10,7 @@ Autor: Alfonsina Ayetebe Ntutumu Mba
 
 Fecha: 26/05/2024
 
+
 ![image](https://github.com/mgea/PEC3_Manovich_Reloaded/assets/170682592/0e555d90-eaab-42c6-8c14-cbc11f6712ef)
 
 
@@ -25,6 +26,7 @@ Algunos de estos beneficios pueden ser:
 
 ### 1. Mayor Alcance: 
 La combinación de diferentes tipos de medios y plataformas permite ampliar la audiencia potencial, llegando a un público más diverso de todas las edades y gustos, lo que permite que diferentes usuarios en distintas zonas del mundo puedan gozar de los mismos productos.
+
 ![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/29f4f222-7e33-41da-be77-3f1de8d32c8f)
 
 ### 2. Experiencia Más Completa: 
@@ -32,7 +34,10 @@ La hibridación integra diferentes formatos y generos en una misma plataforma ad
 
 ### 3. Nuevos Modelos de Negocio: 
 La hibridación abre la puerta a nuevas oportunidades de monetización, como suscripciones premium, publicidad personalizada o paquetes combinados.
+
+
 ![image](https://github.com/SinaFina/PEC3_Manovich_Reloaded/assets/170682592/c7df5e61-34ac-4549-aff5-8f15277b3285)
+
 
 ### 4. Interactividad y Comunidad:
 La hibridación fomenta la interacción entre usuarios y artistas, creando espacios para el diálogo, la colaboración y el sentido de pertenencia. En plataformas como Tidal tienes la posibilidad de crear carpetas de música que puedes dejar en público y compartir con otros usuarios.
